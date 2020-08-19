@@ -1,2 +1,2 @@
-# WechatMp
-leaning how to create / edit / organize Wechat mp
+
+# [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
